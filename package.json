@@ -1,0 +1,27 @@
+{
+  "name": "nbind-examples",
+  "version": "0.2.0",
+  "description": "Examples of connecting C++ and JavaScript with nbind",
+  "scripts": {
+    "autogypi": "autogypi",
+    "node-gyp": "node-gyp",
+    "emcc-path": "emcc-path",
+
+    "install": "autogypi && node-gyp configure build"
+  },
+  "author": "Juha Järvi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/charto/nbind-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/charto/nbind-examples/issues"
+  },
+  "homepage": "https://github.com/charto/nbind-examples#readme",
+  "dependencies": {
+    "autogypi": "^0.2.2",
+    "nbind": "^0.2.1",
+    "node-gyp": "^3.3.1"
+  }
+}
