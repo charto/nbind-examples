@@ -31,6 +31,9 @@ Then run individual examples:
 ```bash
 node 0-hello.js
 node 1-headers.js
+node 2-classes.js
+node 3-methods.js
+node 4-getset.js
 ```
 
 License
