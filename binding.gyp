@@ -9,7 +9,8 @@
 				"1-headers.cc",
 				"2-classes.cc",
 				"3-methods.cc",
-				"4-getset.cc"
+				"4-getset.cc",
+				"5-objects.cc"
 			]
 		}
 	],

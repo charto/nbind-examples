@@ -34,6 +34,7 @@ node 1-headers.js
 node 2-classes.js
 node 3-methods.js
 node 4-getset.js
+node 5-objects.js
 ```
 
 License
