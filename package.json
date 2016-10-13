@@ -1,6 +1,6 @@
 {
   "name": "nbind-examples",
-  "version": "0.2.0",
+  "version": "0.3.4",
   "description": "Examples of connecting C++ and JavaScript with nbind",
   "scripts": {
     "autogypi": "autogypi",
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/charto/nbind-examples#readme",
   "dependencies": {
     "autogypi": "^0.2.2",
-    "nbind": "^0.2.1",
-    "node-gyp": "^3.3.1"
+    "nbind": "^0.3.4",
+    "node-gyp": "^3.4.0"
   }
 }

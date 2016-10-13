@@ -11,7 +11,8 @@
 				"3-methods.cc",
 				"4-getset.cc",
 				"5-objects.cc",
-				"6-functions.cc"
+				"6-functions.cc",
+				"7-buffers.cc"
 			]
 		}
 	],
